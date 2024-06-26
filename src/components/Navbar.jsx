@@ -7,7 +7,7 @@ function Navbar() {
   const [toggle, setToggle] = useState(false);
 
   return (
-    <div className="fixed top-0 left-0 w-full z-50 backdrop-blur-md border-b-4">
+    <div className="fixed top-0 left-0 w-full z-50 backdrop-blur-md border-b-4 border-b-slate-200">
       <div className="container mx-auto my-5 px-5">
         <div className="flex justify-between items-center">
           {/* Logo Part */}
