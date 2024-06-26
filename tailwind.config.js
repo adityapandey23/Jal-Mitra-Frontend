@@ -11,6 +11,11 @@ export default {
         'medium-bold': 550,
         'extra-bold': 950,
       },
+      colors: {
+        blue: {
+          155:'#DBF1FF'
+        }
+      },
     },
   },
   plugins: [],

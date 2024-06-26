@@ -3,6 +3,7 @@ import PlainButton from './PlainButton'
 import HeroSection from './HeroSection'
 import SquareRoundButton from './SquareRoundButton'
 import AboutUs from './AboutUs'
+import How from './How'
 
 export {
     Navbar,
@@ -10,4 +11,5 @@ export {
     HeroSection,
     SquareRoundButton,
     AboutUs,
+    How,
 }
