@@ -17,47 +17,47 @@ function How() {
 
 
     <div className='flex justify-center md:justify-between items-center md:px-20 mt-10 flex-wrap-reverse'>
-      <div>
-        <p className='text-center'>
+      <div className='text-center'>
+        <p>
           {HowContent[1].S}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RRF}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RSTR}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RSWI}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RGWI}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RTP}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].RWCS}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].VF}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].LF}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].GE}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].T}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].E}
         </p>
-        <p className='text-center'>
+        <p >
           {HowContent[1].B}
         </p>
-        <p className='text-center'>
+        <p >
           <b>
             {HowContent[1].Relation}
           </b>
