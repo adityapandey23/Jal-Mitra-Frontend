@@ -53,7 +53,7 @@ let HowContent = [
     },
     {
         "id": 2,
-        "ΔS": "Change in storage (ΔS)",
+        "S": "Change in storage (ΔS)",
         "RRF": "Rainfall recharge (RRF)",
         "RSTR": "Recharge from stream channels (RSTR)",
         "RSWI": "Recharge from surface water irrigation (RSWI)",
